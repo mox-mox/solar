@@ -1,4 +1,4 @@
-update=So 03 Apr 2016 18:33:50 CEST
+update=Di 05 Apr 2016 14:41:04 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,18 +27,18 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=/home/mox/projects/kicad_lib
+LibDir=/home/mox/projects/kicad_symbols
 [eeschema/libraries]
 LibName1=mox
 LibName2=power
-LibName3=transistors
-LibName4=conn
-LibName5=linear
-LibName6=regul
-LibName7=74xx
-LibName8=cmos4000
-LibName9=adc-dac
-LibName10=device
+LibName3=device
+LibName4=transistors
+LibName5=conn
+LibName6=linear
+LibName7=regul
+LibName8=74xx
+LibName9=cmos4000
+LibName10=adc-dac
 LibName11=memory
 LibName12=xilinx
 LibName13=microcontrollers
