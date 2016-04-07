@@ -2,11 +2,11 @@
 
   (general
     (links 129)
-    (no_connects 52)
+    (no_connects 54)
     (area 140.774999 47.454999 169.125001 93.652)
     (thickness 1.6)
     (drawings 0)
-    (tracks 51)
+    (tracks 54)
     (zones 0)
     (modules 87)
     (nets 21)
@@ -146,7 +146,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BF5E) (tstamp 5705C087)
-    (at 151.525 81.175)
+    (at 152.375 80.75)
     (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -158,7 +158,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BF55) (tstamp 5705C072)
-    (at 151.775 81.025)
+    (at 152.625 80.6)
     (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -170,7 +170,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BF5E) (tstamp 5705BFC2)
-    (at 152.025 81.425)
+    (at 152.725 81)
     (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -182,7 +182,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BF55) (tstamp 5705BFB9)
-    (at 152.025 80.775)
+    (at 152.725 80.35)
     (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -194,7 +194,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BF5E) (tstamp 5705BE9C)
-    (at 151.375 81.425)
+    (at 152.075 81)
     (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -206,7 +206,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BBFB) (tstamp 5705BCBD)
-    (at 152.15 92.3)
+    (at 152.45 92.3)
     (fp_text reference REF**111155 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -218,7 +218,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BBFB) (tstamp 5705BCB9)
-    (at 151.35 92.3)
+    (at 151.65 92.3)
     (fp_text reference REF**111145 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -230,7 +230,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BBFB) (tstamp 5705BCB5)
-    (at 150.55 92.3)
+    (at 150.85 92.3)
     (fp_text reference REF**111135 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -242,7 +242,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BBFB) (tstamp 5705BCB1)
-    (at 149.75 92.3)
+    (at 150.05 92.3)
     (fp_text reference REF**111125 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -254,7 +254,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BBFB) (tstamp 5705BCAD)
-    (at 148.95 92.3)
+    (at 149.25 92.3)
     (fp_text reference REF**111115 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -266,7 +266,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BBFB) (tstamp 5705BCA9)
-    (at 152.15 91.5)
+    (at 152.45 91.5)
     (fp_text reference REF**111154 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -278,7 +278,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BBFB) (tstamp 5705BCA5)
-    (at 151.35 91.5)
+    (at 151.65 91.5)
     (fp_text reference REF**111144 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -290,7 +290,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BBFB) (tstamp 5705BCA1)
-    (at 150.55 91.5)
+    (at 150.85 91.5)
     (fp_text reference REF**111134 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -302,7 +302,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BBFB) (tstamp 5705BC9D)
-    (at 149.75 91.5)
+    (at 150.05 91.5)
     (fp_text reference REF**111124 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -314,7 +314,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BBFB) (tstamp 5705BC99)
-    (at 148.95 91.5)
+    (at 149.25 91.5)
     (fp_text reference REF**111114 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -326,7 +326,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BBFB) (tstamp 5705BC95)
-    (at 152.15 90.7)
+    (at 152.45 90.7)
     (fp_text reference REF**111153 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -338,7 +338,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BBFB) (tstamp 5705BC91)
-    (at 151.35 90.7)
+    (at 151.65 90.7)
     (fp_text reference REF**111143 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -350,7 +350,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BBFB) (tstamp 5705BC8D)
-    (at 150.55 90.7)
+    (at 150.85 90.7)
     (fp_text reference REF**111133 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -362,7 +362,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BBFB) (tstamp 5705BC89)
-    (at 149.75 90.7)
+    (at 150.05 90.7)
     (fp_text reference REF**111123 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -374,7 +374,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BBFB) (tstamp 5705BC85)
-    (at 148.95 90.7)
+    (at 149.25 90.7)
     (fp_text reference REF**111113 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -386,7 +386,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BBFB) (tstamp 5705BC81)
-    (at 152.15 89.9)
+    (at 152.45 89.9)
     (fp_text reference REF**111152 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -398,7 +398,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BBFB) (tstamp 5705BC7D)
-    (at 151.35 89.9)
+    (at 151.65 89.9)
     (fp_text reference REF**111142 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -410,7 +410,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BBFB) (tstamp 5705BC79)
-    (at 150.55 89.9)
+    (at 150.85 89.9)
     (fp_text reference REF**111132 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -422,7 +422,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BBFB) (tstamp 5705BC75)
-    (at 149.75 89.9)
+    (at 150.05 89.9)
     (fp_text reference REF**111122 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -434,7 +434,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BBFB) (tstamp 5705BC71)
-    (at 148.95 89.9)
+    (at 149.25 89.9)
     (fp_text reference REF**111112 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -446,7 +446,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BBFB) (tstamp 5705BC6D)
-    (at 152.15 89.1)
+    (at 152.45 89.1)
     (fp_text reference REF**111151 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -458,7 +458,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BBFB) (tstamp 5705BC69)
-    (at 151.35 89.1)
+    (at 151.65 89.1)
     (fp_text reference REF**111141 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -470,7 +470,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BBFB) (tstamp 5705BC65)
-    (at 150.55 89.1)
+    (at 150.85 89.1)
     (fp_text reference REF**111131 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -482,7 +482,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BBFB) (tstamp 5705BC61)
-    (at 149.75 89.1)
+    (at 150.05 89.1)
     (fp_text reference REF**111121 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -494,7 +494,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BBFB) (tstamp 5705BBA9)
-    (at 148.95 89.1)
+    (at 149.25 89.1)
     (fp_text reference REF**111111 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -506,7 +506,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705B1BC) (tstamp 5705B2B7)
-    (at 166.5 89)
+    (at 166.65 89.2)
     (fp_text reference REF**1155 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -518,7 +518,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705B1BC) (tstamp 5705B2B3)
-    (at 165.7 89)
+    (at 165.85 89.2)
     (fp_text reference REF**1145 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -530,7 +530,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705B1BC) (tstamp 5705B2AF)
-    (at 164.9 89)
+    (at 165.05 89.2)
     (fp_text reference REF**1135 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -542,7 +542,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705B1BC) (tstamp 5705B2AB)
-    (at 164.1 89)
+    (at 164.25 89.2)
     (fp_text reference REF**1125 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -554,7 +554,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705B1BC) (tstamp 5705B2A7)
-    (at 163.3 89)
+    (at 163.45 89.2)
     (fp_text reference REF**1115 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -566,7 +566,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705B1BC) (tstamp 5705B2A3)
-    (at 166.5 88.2)
+    (at 166.65 88.4)
     (fp_text reference REF**1154 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -578,7 +578,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705B1BC) (tstamp 5705B29F)
-    (at 165.7 88.2)
+    (at 165.85 88.4)
     (fp_text reference REF**1144 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -590,7 +590,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705B1BC) (tstamp 5705B29B)
-    (at 164.9 88.2)
+    (at 165.05 88.4)
     (fp_text reference REF**1134 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -602,7 +602,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705B1BC) (tstamp 5705B297)
-    (at 164.1 88.2)
+    (at 164.25 88.4)
     (fp_text reference REF**1124 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -614,7 +614,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705B1BC) (tstamp 5705B293)
-    (at 163.3 88.2)
+    (at 163.45 88.4)
     (fp_text reference REF**1114 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -626,7 +626,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705B1BC) (tstamp 5705B28F)
-    (at 166.5 87.4)
+    (at 166.65 87.6)
     (fp_text reference REF**1153 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -638,7 +638,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705B1BC) (tstamp 5705B28B)
-    (at 165.7 87.4)
+    (at 165.85 87.6)
     (fp_text reference REF**1143 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -650,7 +650,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705B1BC) (tstamp 5705B287)
-    (at 164.9 87.4)
+    (at 165.05 87.6)
     (fp_text reference REF**1133 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -662,7 +662,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705B1BC) (tstamp 5705B283)
-    (at 164.1 87.4)
+    (at 164.25 87.6)
     (fp_text reference REF**1123 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -674,7 +674,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705B1BC) (tstamp 5705B27F)
-    (at 163.3 87.4)
+    (at 163.45 87.6)
     (fp_text reference REF**1113 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -686,7 +686,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705B1BC) (tstamp 5705B27B)
-    (at 166.5 86.6)
+    (at 166.65 86.8)
     (fp_text reference REF**1152 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -698,7 +698,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705B1BC) (tstamp 5705B277)
-    (at 165.7 86.6)
+    (at 165.85 86.8)
     (fp_text reference REF**1142 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -710,7 +710,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705B1BC) (tstamp 5705B273)
-    (at 164.9 86.6)
+    (at 165.05 86.8)
     (fp_text reference REF**1132 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -722,7 +722,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705B1BC) (tstamp 5705B26F)
-    (at 164.1 86.6)
+    (at 164.25 86.8)
     (fp_text reference REF**1122 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -734,7 +734,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705B1BC) (tstamp 5705B26B)
-    (at 163.3 86.6)
+    (at 163.45 86.8)
     (fp_text reference REF**1112 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -746,7 +746,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705B1BC) (tstamp 5705B267)
-    (at 166.5 85.8)
+    (at 166.65 86)
     (fp_text reference REF**1151 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -758,7 +758,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705B1BC) (tstamp 5705B263)
-    (at 165.7 85.8)
+    (at 165.85 86)
     (fp_text reference REF**1141 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -770,7 +770,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705B1BC) (tstamp 5705B25F)
-    (at 164.9 85.8)
+    (at 165.05 86)
     (fp_text reference REF**1131 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -782,7 +782,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705B1BC) (tstamp 5705B25B)
-    (at 164.1 85.8)
+    (at 164.25 86)
     (fp_text reference REF**1121 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -794,7 +794,7 @@
   )
 
   (module mox:R_0603_HandSoldering (layer B.Cu) (tedit 570512B6) (tstamp 5704A660)
-    (at 151.95 74.6 270)
+    (at 152.1 74.6 270)
     (descr "Resistor SMD 0603, hand soldering")
     (tags "resistor 0603")
     (path /5704CD6C)
@@ -823,7 +823,7 @@
   )
 
   (module mox:QFN-16-1EP_3x3mm_Pitch0.5mm (layer B.Cu) (tedit 57053056) (tstamp 57047209)
-    (at 151.7 81.1 90)
+    (at 152.4 80.675 90)
     (descr "16-Lead Plastic Quad Flat, No Lead Package (NG) - 3x3x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "QFN 0.5")
     (path /5703B4DC)
@@ -958,7 +958,7 @@
   )
 
   (module mox:R_0603_HandSoldering (layer B.Cu) (tedit 570512B6) (tstamp 570471C3)
-    (at 154.95 82.85)
+    (at 155.1 82.85)
     (descr "Resistor SMD 0603, hand soldering")
     (tags "resistor 0603")
     (path /5703DB2D)
@@ -987,7 +987,7 @@
   )
 
   (module mox:R_1206_HandSoldering (layer B.Cu) (tedit 5418A20D) (tstamp 570471B7)
-    (at 149.2 89.6 180)
+    (at 149.5 89.6 180)
     (descr "Resistor SMD 1206, hand soldering")
     (tags "resistor 1206")
     (path /5703CAAE)
@@ -1016,7 +1016,7 @@
   )
 
   (module mox:R_1206_HandSoldering (layer B.Cu) (tedit 5418A20D) (tstamp 570471AB)
-    (at 149.2 91.6)
+    (at 149.5 91.6)
     (descr "Resistor SMD 1206, hand soldering")
     (tags "resistor 1206")
     (path /5703C850)
@@ -1045,7 +1045,7 @@
   )
 
   (module mox:R_0603_HandSoldering (layer B.Cu) (tedit 570512B6) (tstamp 5704719F)
-    (at 154.95 89.1 180)
+    (at 155.1 89.1 180)
     (descr "Resistor SMD 0603, hand soldering")
     (tags "resistor 0603")
     (path /570412B1)
@@ -1074,7 +1074,7 @@
   )
 
   (module mox:R_0603_HandSoldering (layer B.Cu) (tedit 570512B6) (tstamp 57047193)
-    (at 154.95 87.85)
+    (at 155.1 87.85)
     (descr "Resistor SMD 0603, hand soldering")
     (tags "resistor 0603")
     (path /570414EE)
@@ -1103,7 +1103,7 @@
   )
 
   (module mox:R_0603_HandSoldering (layer B.Cu) (tedit 570512B6) (tstamp 57047187)
-    (at 152.85 85.55 270)
+    (at 153 85.55 270)
     (descr "Resistor SMD 0603, hand soldering")
     (tags "resistor 0603")
     (path /5703DC70)
@@ -1132,7 +1132,7 @@
   )
 
   (module mox:R_0603_HandSoldering (layer B.Cu) (tedit 570512B6) (tstamp 5704717B)
-    (at 150.45 86.85 90)
+    (at 150.75 86.85 90)
     (descr "Resistor SMD 0603, hand soldering")
     (tags "resistor 0603")
     (path /5703CCC0)
@@ -1161,7 +1161,7 @@
   )
 
   (module mox:R_0603_HandSoldering (layer B.Cu) (tedit 570512B6) (tstamp 5704716F)
-    (at 149.2 86.85 90)
+    (at 149.5 86.85 90)
     (descr "Resistor SMD 0603, hand soldering")
     (tags "resistor 0603")
     (path /5703CB4A)
@@ -1190,7 +1190,7 @@
   )
 
   (module mox:SMB_Handsoldering (layer B.Cu) (tedit 57053463) (tstamp 57047156)
-    (at 152.2 68.35 180)
+    (at 152.35 68.35 180)
     (descr "Diode SMB Handsoldering")
     (tags "Diode SMB Handsoldering")
     (path /5703F354)
@@ -1245,7 +1245,7 @@
   )
 
   (module mox:C_0603_HandSoldering (layer B.Cu) (tedit 5705232F) (tstamp 5704712E)
-    (at 149.2 78.1 90)
+    (at 149.5 79.175 90)
     (descr "Capacitor SMD 0603, hand soldering")
     (tags "capacitor 0603")
     (path /5703D36B)
@@ -1274,7 +1274,7 @@
   )
 
   (module mox:C_0603_HandSoldering (layer B.Cu) (tedit 5705232F) (tstamp 57047116)
-    (at 154.95 84.1)
+    (at 155.1 84.1)
     (descr "Capacitor SMD 0603, hand soldering")
     (tags "capacitor 0603")
     (path /5703DEAF)
@@ -1303,7 +1303,7 @@
   )
 
   (module mox:C_1210_HandSoldering (layer B.Cu) (tedit 57051864) (tstamp 5704710A)
-    (at 158.95 87.1 180)
+    (at 159.1 87.1 180)
     (descr "Capacitor SMD 1210, hand soldering")
     (tags "capacitor 1210")
     (path /57050BF8)
@@ -1332,7 +1332,7 @@
   )
 
   (module mox:C_1210_HandSoldering (layer B.Cu) (tedit 57051864) (tstamp 570470FE)
-    (at 158.95 84.35 180)
+    (at 159.1 84.35 180)
     (descr "Capacitor SMD 1210, hand soldering")
     (tags "capacitor 1210")
     (path /57050B87)
@@ -1361,7 +1361,7 @@
   )
 
   (module mox:C_1210_HandSoldering (layer B.Cu) (tedit 57051864) (tstamp 570470F2)
-    (at 158.95 81.6 180)
+    (at 159.1 81.6 180)
     (descr "Capacitor SMD 1210, hand soldering")
     (tags "capacitor 1210")
     (path /57050B19)
@@ -1390,7 +1390,7 @@
   )
 
   (module mox:C_1210_HandSoldering (layer B.Cu) (tedit 57051864) (tstamp 570470E6)
-    (at 158.95 78.85 180)
+    (at 159.1 78.85 180)
     (descr "Capacitor SMD 1210, hand soldering")
     (tags "capacitor 1210")
     (path /57050AAE)
@@ -1419,7 +1419,7 @@
   )
 
   (module mox:C_1210_HandSoldering (layer B.Cu) (tedit 57051864) (tstamp 570470DA)
-    (at 158.95 76.1 180)
+    (at 159.1 76.1 180)
     (descr "Capacitor SMD 1210, hand soldering")
     (tags "capacitor 1210")
     (path /570509EA)
@@ -1448,7 +1448,7 @@
   )
 
   (module mox:C_1210_HandSoldering (layer B.Cu) (tedit 57051864) (tstamp 570470CE)
-    (at 146.2 76.1 180)
+    (at 146.5 76.1 180)
     (descr "Capacitor SMD 1210, hand soldering")
     (tags "capacitor 1210")
     (path /570507D1)
@@ -1477,7 +1477,7 @@
   )
 
   (module mox:C_1210_HandSoldering (layer B.Cu) (tedit 57051864) (tstamp 570470C2)
-    (at 146.2 78.85 180)
+    (at 146.5 78.85 180)
     (descr "Capacitor SMD 1210, hand soldering")
     (tags "capacitor 1210")
     (path /5705076F)
@@ -1506,7 +1506,7 @@
   )
 
   (module mox:C_1210_HandSoldering (layer B.Cu) (tedit 57051864) (tstamp 570470B6)
-    (at 146.2 81.6 180)
+    (at 146.5 81.6 180)
     (descr "Capacitor SMD 1210, hand soldering")
     (tags "capacitor 1210")
     (path /57050696)
@@ -1535,7 +1535,7 @@
   )
 
   (module mox:C_1210_HandSoldering (layer B.Cu) (tedit 57051864) (tstamp 570470AA)
-    (at 146.2 84.35 180)
+    (at 146.5 84.35 180)
     (descr "Capacitor SMD 1210, hand soldering")
     (tags "capacitor 1210")
     (path /57050636)
@@ -1564,7 +1564,7 @@
   )
 
   (module mox:C_1210_HandSoldering (layer B.Cu) (tedit 57051864) (tstamp 5704709E)
-    (at 146.2 87.1 180)
+    (at 146.5 87.1 180)
     (descr "Capacitor SMD 1210, hand soldering")
     (tags "capacitor 1210")
     (path /5704F66A)
@@ -1593,7 +1593,7 @@
   )
 
   (module mox:C_0603_HandSoldering (layer B.Cu) (tedit 5705232F) (tstamp 57047092)
-    (at 154.95 85.35)
+    (at 155.1 85.35)
     (descr "Capacitor SMD 0603, hand soldering")
     (tags "capacitor 0603")
     (path /5703E141)
@@ -1622,7 +1622,7 @@
   )
 
   (module mox:C_0603_HandSoldering (layer B.Cu) (tedit 5705232F) (tstamp 57047086)
-    (at 154.95 86.6)
+    (at 155.1 86.6)
     (descr "Capacitor SMD 0603, hand soldering")
     (tags "capacitor 0603")
     (path /5703DD71)
@@ -1651,7 +1651,7 @@
   )
 
   (module mox:C_0603_HandSoldering (layer B.Cu) (tedit 5705232F) (tstamp 5704707A)
-    (at 154.45 73.85 180)
+    (at 154.6 73.85 180)
     (descr "Capacitor SMD 0603, hand soldering")
     (tags "capacitor 0603")
     (path /5703F01D)
@@ -1680,7 +1680,7 @@
   )
 
   (module mox:C_0603_HandSoldering (layer B.Cu) (tedit 5705232F) (tstamp 5704706E)
-    (at 149.5 83.85 90)
+    (at 149.8 83.85 90)
     (descr "Capacitor SMD 0603, hand soldering")
     (tags "capacitor 0603")
     (path /5703CD8D)
@@ -1709,7 +1709,7 @@
   )
 
   (module mox:C_0805_HandSoldering (layer B.Cu) (tedit 57051316) (tstamp 57047122)
-    (at 149.45 72.1 180)
+    (at 149.6 72.1 180)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5703F680)
@@ -1762,7 +1762,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705B1BC) (tstamp 5705B158)
-    (at 163.3 85.8)
+    (at 163.45 86)
     (fp_text reference REF**1111 (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -1774,7 +1774,7 @@
   )
 
   (module mox:Via-0.5mm (layer F.Cu) (tedit 5705BF55) (tstamp 5705BE69)
-    (at 151.375 80.775)
+    (at 152.075 80.35)
     (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -1785,56 +1785,59 @@
       (net 18 AGND) (zone_connect 2))
   )
 
-  (segment (start 150.275 84.8) (end 150.275 81.975) (width 0.2) (layer B.Cu) (net 1))
-  (segment (start 150.275 81.975) (end 150.15 81.85) (width 0.2) (layer B.Cu) (net 1) (tstamp 5705D09F))
-  (segment (start 150.275 84.8) (end 150.075 84.8) (width 0.2) (layer B.Cu) (net 1))
-  (segment (start 149.5 84.8) (end 150.075 84.8) (width 0.2) (layer B.Cu) (net 1))
-  (segment (start 150.275 84.825) (end 150.275 84.8) (width 0.2) (layer B.Cu) (net 1))
-  (segment (start 150.45 85.9) (end 150.275 85.725) (width 0.2) (layer B.Cu) (net 1))
-  (segment (start 150.275 85.725) (end 150.275 84.825) (width 0.2) (layer B.Cu) (net 1) (tstamp 5705CEB1))
-  (segment (start 148.75 82.15) (end 149.55 81.35) (width 0.2) (layer B.Cu) (net 2))
-  (segment (start 149.55 81.35) (end 150.15 81.35) (width 0.2) (layer B.Cu) (net 2) (tstamp 5705D0A9))
-  (segment (start 149.25 82.9) (end 148.725 82.9) (width 0.2) (layer B.Cu) (net 2))
-  (segment (start 148.975 82.9) (end 148.725 82.9) (width 0.2) (layer B.Cu) (net 2) (tstamp 5705CEEF))
-  (segment (start 148.725 82.9) (end 148.75 82.9) (width 0.2) (layer B.Cu) (net 2) (tstamp 5705CEF1))
-  (segment (start 148.75 82.9) (end 148.725 82.9) (width 0.2) (layer B.Cu) (net 2) (tstamp 5705CEF9))
-  (segment (start 148.725 82.175) (end 148.75 82.15) (width 0.2) (layer B.Cu) (net 2) (tstamp 5705CCB3))
-  (segment (start 148.725 84.7) (end 148.725 82.9) (width 0.2) (layer B.Cu) (net 2))
-  (segment (start 148.725 82.9) (end 148.725 82.175) (width 0.2) (layer B.Cu) (net 2) (tstamp 5705CEFA))
-  (segment (start 149.2 85.9) (end 148.725 85.425) (width 0.2) (layer B.Cu) (net 2))
-  (segment (start 148.725 84.7) (end 148.725 84.825) (width 0.2) (layer B.Cu) (net 2) (tstamp 5705CCA3))
-  (segment (start 148.725 85.425) (end 148.725 84.7) (width 0.2) (layer B.Cu) (net 2) (tstamp 5705CC9F))
-  (segment (start 154 86.6) (end 152.95 86.6) (width 0.2) (layer B.Cu) (net 5))
-  (segment (start 152.95 86.6) (end 152.85 86.5) (width 0.2) (layer B.Cu) (net 5) (tstamp 5705D496))
-  (segment (start 154 85.35) (end 153.6 85.35) (width 0.2) (layer B.Cu) (net 6))
-  (segment (start 153.6 85.35) (end 152.85 84.6) (width 0.2) (layer B.Cu) (net 6) (tstamp 5705D490))
-  (segment (start 151.45 82.65) (end 151.45 83.215688) (width 0.2) (layer B.Cu) (net 6))
-  (segment (start 151.45 83.215688) (end 152.834312 84.6) (width 0.2) (layer B.Cu) (net 6) (tstamp 5705D46E))
-  (segment (start 152.834312 84.6) (end 152.85 84.6) (width 0.2) (layer B.Cu) (net 6) (tstamp 5705D47B))
-  (segment (start 155.9 89.1) (end 158.55 89.1) (width 0.2) (layer B.Cu) (net 8))
-  (segment (start 158.55 89.1) (end 160.55 87.1) (width 0.2) (layer B.Cu) (net 8) (tstamp 5705D4F9))
-  (segment (start 151.95 82.65) (end 151.95 83.15) (width 0.2) (layer B.Cu) (net 9))
-  (segment (start 151.95 83.15) (end 152.3 83.5) (width 0.2) (layer B.Cu) (net 9) (tstamp 5705D412))
-  (segment (start 152.3 83.5) (end 153.2 83.5) (width 0.2) (layer B.Cu) (net 9) (tstamp 5705D413))
-  (segment (start 153.2 83.5) (end 153.8 84.1) (width 0.2) (layer B.Cu) (net 9) (tstamp 5705D41D))
-  (segment (start 153.8 84.1) (end 154 84.1) (width 0.2) (layer B.Cu) (net 9) (tstamp 5705D42A))
-  (segment (start 154 89.1) (end 154 87.85) (width 0.2) (layer B.Cu) (net 12))
-  (segment (start 152.075 84.575) (end 152.075 87.175) (width 0.2) (layer B.Cu) (net 12))
-  (segment (start 152.075 87.175) (end 154 89.1) (width 0.2) (layer B.Cu) (net 12) (tstamp 5705D4D5))
-  (segment (start 151.784312 84.115688) (end 152.075 84.406376) (width 0.2) (layer B.Cu) (net 12))
-  (segment (start 152.075 84.406376) (end 152.075 84.575) (width 0.2) (layer B.Cu) (net 12) (tstamp 5705D4CA))
-  (segment (start 150.95 82.65) (end 150.95 83.281376) (width 0.2) (layer B.Cu) (net 12))
-  (segment (start 150.95 83.281376) (end 151.784312 84.115688) (width 0.2) (layer B.Cu) (net 12) (tstamp 5705D4AA))
-  (segment (start 152.525 81.7) (end 152.25 81.425) (width 0.3) (layer B.Cu) (net 18) (status 800000))
-  (segment (start 152.25 81.425) (end 152.025 81.425) (width 0.3) (layer B.Cu) (net 18) (tstamp 5705D58C) (status C00000))
-  (segment (start 153.25 81.85) (end 152.675 81.85) (width 0.3) (layer B.Cu) (net 18) (status 400000))
-  (segment (start 152.675 81.85) (end 152.525 81.7) (width 0.3) (layer B.Cu) (net 18) (tstamp 5705D580))
-  (segment (start 154.05 81.85) (end 154.9 81.85) (width 0.4) (layer B.Cu) (net 18))
-  (segment (start 154.9 81.85) (end 155.9 82.85) (width 0.4) (layer B.Cu) (net 18) (tstamp 5705D533))
-  (segment (start 153.25 81.85) (end 154.05 81.85) (width 0.3) (layer B.Cu) (net 18))
-  (segment (start 155.9 87.85) (end 155.9 86.6) (width 0.4) (layer B.Cu) (net 18))
-  (segment (start 155.9 86.6) (end 155.9 85.35) (width 0.4) (layer B.Cu) (net 18) (tstamp 5705D514))
-  (segment (start 155.9 85.35) (end 155.9 84.1) (width 0.4) (layer B.Cu) (net 18) (tstamp 5705D516))
-  (segment (start 155.9 84.1) (end 155.9 82.85) (width 0.4) (layer B.Cu) (net 18) (tstamp 5705D517))
+  (segment (start 151.125 81.55) (end 151 81.425) (width 0.2) (layer B.Cu) (net 1) (tstamp 5705D09F))
+  (segment (start 150.575 84.8) (end 150.375 84.8) (width 0.2) (layer B.Cu) (net 1))
+  (segment (start 149.8 84.8) (end 150.375 84.8) (width 0.2) (layer B.Cu) (net 1))
+  (segment (start 150.575 84.825) (end 150.575 84.8) (width 0.2) (layer B.Cu) (net 1))
+  (segment (start 150.75 85.9) (end 150.575 85.725) (width 0.2) (layer B.Cu) (net 1))
+  (segment (start 150.575 85.725) (end 150.575 84.825) (width 0.2) (layer B.Cu) (net 1) (tstamp 5705CEB1))
+  (segment (start 150.1 82.475) (end 149.575 82.475) (width 0.2) (layer B.Cu) (net 2))
+  (segment (start 149.275 82.9) (end 149.025 82.9) (width 0.2) (layer B.Cu) (net 2) (tstamp 5705CEEF))
+  (segment (start 149.025 82.9) (end 149.05 82.9) (width 0.2) (layer B.Cu) (net 2) (tstamp 5705CEF1))
+  (segment (start 149.05 82.9) (end 149.025 82.9) (width 0.2) (layer B.Cu) (net 2) (tstamp 5705CEF9))
+  (segment (start 149.025 82.175) (end 149.05 82.15) (width 0.2) (layer B.Cu) (net 2) (tstamp 5705CCB3))
+  (segment (start 149.025 84.7) (end 149.025 82.9) (width 0.2) (layer B.Cu) (net 2))
+  (segment (start 149.025 82.9) (end 149.025 82.175) (width 0.2) (layer B.Cu) (net 2) (tstamp 5705CEFA))
+  (segment (start 149.5 85.9) (end 149.025 85.425) (width 0.2) (layer B.Cu) (net 2))
+  (segment (start 149.025 84.7) (end 149.025 84.825) (width 0.2) (layer B.Cu) (net 2) (tstamp 5705CCA3))
+  (segment (start 149.025 85.425) (end 149.025 84.7) (width 0.2) (layer B.Cu) (net 2) (tstamp 5705CC9F))
+  (segment (start 154.15 86.6) (end 153.1 86.6) (width 0.2) (layer B.Cu) (net 5))
+  (segment (start 153.1 86.6) (end 153 86.5) (width 0.2) (layer B.Cu) (net 5) (tstamp 5705DC88))
+  (segment (start 153.25 86.6) (end 153.15 86.5) (width 0.2) (layer B.Cu) (net 5) (tstamp 5705D496))
+  (segment (start 152.15 82.225) (end 152.15 82.865688) (width 0.2) (layer B.Cu) (net 6))
+  (segment (start 152.15 82.865688) (end 152.667156 83.382844) (width 0.2) (layer B.Cu) (net 6) (tstamp 5705DC7A))
+  (segment (start 153 84.6) (end 153 83.715688) (width 0.2) (layer B.Cu) (net 6))
+  (segment (start 153 83.715688) (end 152.667156 83.382844) (width 0.2) (layer B.Cu) (net 6) (tstamp 5705DC70))
+  (segment (start 154.15 85.35) (end 153.75 85.35) (width 0.2) (layer B.Cu) (net 6))
+  (segment (start 153.9 85.35) (end 153.15 84.6) (width 0.2) (layer B.Cu) (net 6) (tstamp 5705D490))
+  (segment (start 153.134312 84.6) (end 153.15 84.6) (width 0.2) (layer B.Cu) (net 6) (tstamp 5705D47B))
+  (segment (start 156.05 89.1) (end 158.7 89.1) (width 0.2) (layer B.Cu) (net 8))
+  (segment (start 158.7 89.1) (end 160.7 87.1) (width 0.2) (layer B.Cu) (net 8) (tstamp 5705D4F9))
+  (segment (start 152.65 82.225) (end 152.65 82.8) (width 0.2) (layer B.Cu) (net 9))
+  (segment (start 152.65 82.8) (end 153.4 83.55) (width 0.2) (layer B.Cu) (net 9) (tstamp 5705DC61))
+  (segment (start 154.15 84.1) (end 153.95 84.1) (width 0.2) (layer B.Cu) (net 9))
+  (segment (start 153.95 84.1) (end 153.4 83.55) (width 0.2) (layer B.Cu) (net 9) (tstamp 5705DC58))
+  (segment (start 154.15 84.1) (end 153.95 84.1) (width 0.2) (layer B.Cu) (net 9))
+  (segment (start 153.95 84.1) (end 154.15 84.1) (width 0.2) (layer B.Cu) (net 9) (tstamp 5705D947))
+  (segment (start 153.95 84.1) (end 154.15 84.1) (width 0.2) (layer B.Cu) (net 9) (tstamp 5705D42A))
+  (segment (start 154.15 87.85) (end 152.9 87.85) (width 0.2) (layer B.Cu) (net 12))
+  (segment (start 152.9 87.85) (end 152.25 87.2) (width 0.2) (layer B.Cu) (net 12) (tstamp 5705DC96))
+  (segment (start 152.25 87.2) (end 152.225 87.175) (width 0.2) (layer B.Cu) (net 12) (tstamp 5705DCA9))
+  (segment (start 152.225 87.175) (end 152.225 83.506376) (width 0.2) (layer B.Cu) (net 12) (tstamp 5705DCAA))
+  (segment (start 152.225 83.506376) (end 151.65 82.931376) (width 0.2) (layer B.Cu) (net 12) (tstamp 5705DCBB))
+  (segment (start 151.65 82.931376) (end 151.65 82.225) (width 0.2) (layer B.Cu) (net 12) (tstamp 5705DCC3))
+  (segment (start 154.15 89.1) (end 154.15 87.85) (width 0.2) (layer B.Cu) (net 12))
+  (segment (start 153.15 82.225) (end 153.775 82.85) (width 0.2) (layer B.Cu) (net 13))
+  (segment (start 153.775 82.85) (end 154.15 82.85) (width 0.2) (layer B.Cu) (net 13) (tstamp 5705DC67))
+  (segment (start 152.725 81) (end 152.95 81) (width 0.3) (layer B.Cu) (net 18) (status C00000))
+  (segment (start 152.95 81) (end 153.225 81.275) (width 0.3) (layer B.Cu) (net 18) (tstamp 5705DCEA) (status 400000))
+  (segment (start 153.95 81.425) (end 154.625 81.425) (width 0.3) (layer B.Cu) (net 18) (status 400000))
+  (segment (start 154.625 81.425) (end 156.05 82.85) (width 0.3) (layer B.Cu) (net 18) (tstamp 5705DCE3) (status 800000))
+  (segment (start 153.95 81.425) (end 153.375 81.425) (width 0.3) (layer B.Cu) (net 18))
+  (segment (start 153.375 81.425) (end 153.225 81.275) (width 0.3) (layer B.Cu) (net 18) (tstamp 5705D580))
+  (segment (start 156.05 87.85) (end 156.05 86.6) (width 0.4) (layer B.Cu) (net 18))
+  (segment (start 156.05 86.6) (end 156.05 85.35) (width 0.4) (layer B.Cu) (net 18) (tstamp 5705D514))
+  (segment (start 156.05 85.35) (end 156.05 84.1) (width 0.4) (layer B.Cu) (net 18) (tstamp 5705D516))
+  (segment (start 156.05 84.1) (end 156.05 82.85) (width 0.4) (layer B.Cu) (net 18) (tstamp 5705D517))
 
 )
