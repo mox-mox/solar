@@ -282,18 +282,30 @@ Connection ~ 1350 1100
 Connection ~ 1500 1100
 Connection ~ 1650 1100
 Wire Wire Line
-	1200 1300 1800 1300
+	1200 1300 1350 1300
+Wire Wire Line
+	1350 1300 1500 1300
+Wire Wire Line
+	1500 1300 1650 1300
+Wire Wire Line
+	1650 1300 1800 1300
 Connection ~ 1650 1300
 Connection ~ 1500 1300
 Connection ~ 1350 1300
 Wire Wire Line
-	2200 1050 2200 1150
+	2200 1050 2200 1100
 Wire Wire Line
-	2400 1050 2400 1150
+	2200 1100 2200 1150
+Wire Wire Line
+	2400 1050 2400 1100
+Wire Wire Line
+	2400 1100 2400 1150
 Connection ~ 2200 1100
 Connection ~ 2400 1100
 Wire Wire Line
-	2150 1300 2150 1500
+	2150 1300 2150 1400
+Wire Wire Line
+	2150 1400 2150 1500
 Wire Wire Line
 	2150 1400 2200 1400
 Wire Wire Line
@@ -307,7 +319,9 @@ Wire Wire Line
 Wire Wire Line
 	2200 2200 2200 2300
 Wire Wire Line
-	1900 2100 2450 2100
+	1900 2100 2050 2100
+Wire Wire Line
+	2050 2100 2450 2100
 Connection ~ 2050 2100
 Wire Wire Line
 	2450 2600 2450 2500
@@ -319,7 +333,11 @@ Connection ~ 1800 1100
 Connection ~ 1800 1300
 Connection ~ 1200 1300
 Wire Wire Line
-	3150 1100 4250 1100
+	3150 1100 3650 1100
+Wire Wire Line
+	3650 1100 3850 1100
+Wire Wire Line
+	3850 1100 4250 1100
 Wire Wire Line
 	3650 1100 3650 1400
 Wire Wire Line
@@ -342,18 +360,36 @@ Wire Wire Line
 Wire Wire Line
 	4550 1100 4550 2100
 Wire Wire Line
-	4550 1100 5450 1100
+	4550 1100 4650 1100
+Wire Wire Line
+	4650 1100 4800 1100
+Wire Wire Line
+	4800 1100 4950 1100
+Wire Wire Line
+	4950 1100 5100 1100
+Wire Wire Line
+	5100 1100 5250 1100
+Wire Wire Line
+	5250 1100 5450 1100
 Connection ~ 4650 1100
 Connection ~ 4800 1100
 Wire Wire Line
-	4650 1300 5250 1300
+	4650 1300 4800 1300
+Wire Wire Line
+	4800 1300 4950 1300
+Wire Wire Line
+	4950 1300 5100 1300
+Wire Wire Line
+	5100 1300 5250 1300
 Connection ~ 4800 1300
 Wire Wire Line
 	2450 1400 2400 1400
 Wire Wire Line
 	2150 1500 2450 1500
 Wire Wire Line
-	2400 1100 2950 1100
+	2400 1100 2450 1100
+Wire Wire Line
+	2450 1100 2950 1100
 Connection ~ 1200 1100
 $Comp
 L +20V #PWR01
@@ -586,7 +622,9 @@ F 7 "35V" V 5250 1200 60  0001 C CNN "U"
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1350 1300 1650 1300
+	1350 1300 1500 1300
+Wire Wire Line
+	1500 1300 1650 1300
 $Comp
 L PGND #PWR06
 U 1 1 57049822
@@ -658,7 +696,13 @@ $EndComp
 Wire Wire Line
 	4950 1300 4950 1500
 Wire Wire Line
-	1900 2600 3050 2600
+	1900 2600 2050 2600
+Wire Wire Line
+	2050 2600 2200 2600
+Wire Wire Line
+	2200 2600 2450 2600
+Wire Wire Line
+	2450 2600 3050 2600
 Connection ~ 2050 2600
 Connection ~ 2200 2600
 Connection ~ 2450 2600
@@ -708,7 +752,21 @@ F 3 "" H 1900 1900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1000 1100 2200 1100
+	1000 1100 1200 1100
+Wire Wire Line
+	1200 1100 1350 1100
+Wire Wire Line
+	1350 1100 1500 1100
+Wire Wire Line
+	1500 1100 1650 1100
+Wire Wire Line
+	1650 1100 1800 1100
+Wire Wire Line
+	1800 1100 1900 1100
+Wire Wire Line
+	1900 1100 2150 1100
+Wire Wire Line
+	2150 1100 2200 1100
 $Comp
 L R R19
 U 1 1 5704CD6C
@@ -767,4 +825,8 @@ Wire Wire Line
 Wire Wire Line
 	2150 1900 2450 1900
 Connection ~ 2150 1900
+Wire Wire Line
+	2450 1900 2450 2050
+Text GLabel 2450 2050 0    30   Input ~ 6
+EN20
 $EndSCHEMATC
