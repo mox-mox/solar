@@ -64,6 +64,7 @@ F 1 "9mΩ" V 2435 965 50  0000 L CNN
 F 2 "mox:R_1206_HandSoldering" H 2300 1050 50  0001 C CNN
 F 3 "" H 2300 1050 50  0000 C CNN
 F 4 "1W" H 2300 1050 60  0001 C CNN "P"
+F 5 "8mΩ" V 2300 1050 60  0001 C CNN "Value (3A)"
 	1    2300 1050
 	0    -1   -1   0   
 $EndComp
@@ -76,6 +77,7 @@ F 1 "9mΩ" V 2435 1065 50  0000 L CNN
 F 2 "mox:R_1206_HandSoldering" H 2300 1150 50  0001 C CNN
 F 3 "" H 2300 1150 50  0000 C CNN
 F 4 "1W" H 2300 1150 60  0001 C CNN "P"
+F 5 "8mΩ" V 2300 1150 60  0001 C CNN "Value (3A)"
 	1    2300 1150
 	0    1    1    0   
 $EndComp
@@ -160,6 +162,7 @@ F 1 "4.22kΩ" H 1930 2160 50  0000 L CNN
 F 2 "mox:R_0603_HandSoldering" H 1900 2200 50  0001 C CNN
 F 3 "" H 1900 2200 50  0000 C CNN
 F 4 "125mW" H 1900 2200 60  0001 C CNN "P"
+F 5 "5.11kΩ" H 1900 2200 60  0001 C CNN "Value (3A)"
 	1    1900 2200
 	-1   0    0    -1  
 $EndComp
@@ -194,6 +197,7 @@ F 0 "Ccomp2" H 2060 2255 50  0000 L CNN
 F 1 "3nF" H 2060 2120 50  0000 L CNN
 F 2 "mox:C_0603_HandSoldering" H 2050 2200 50  0001 C CNN
 F 3 "" H 2050 2200 50  0000 C CNN
+F 4 "3.3nF" H 2050 2200 60  0001 C CNN "Value (3A)"
 	1    2050 2200
 	1    0    0    -1  
 $EndComp
@@ -214,9 +218,10 @@ L D_Schottky Dboot1
 U 1 1 5703F354
 P 3850 1600
 F 0 "Dboot1" V 3850 1650 50  0000 L CNN
-F 1 "MBRS2040LT3G" H 3650 1520 50  0001 L CNN
+F 1 "ON Semiconductor MBRS2040LT3G" H 3650 1520 50  0001 L CNN
 F 2 "mox:SMB_Handsoldering" V 3850 1600 50  0001 C CNN
 F 3 "" V 3850 1600 50  0000 C CNN
+F 4 "Vishay-Semiconductor SL23-E3/52T" V 3850 1600 60  0001 C CNN "Value (3A)"
 	1    3850 1600
 	0    1    1    0   
 $EndComp
@@ -342,11 +347,11 @@ Wire Wire Line
 Wire Wire Line
 	4550 1100 4550 2100
 Wire Wire Line
-	4550 1100 5450 1100
+	4550 1100 5800 1100
 Connection ~ 4650 1100
 Connection ~ 4800 1100
 Wire Wire Line
-	4650 1300 5250 1300
+	4650 1300 5550 1300
 Connection ~ 4800 1300
 Wire Wire Line
 	2450 1400 2400 1400
@@ -358,12 +363,12 @@ Connection ~ 1200 1100
 $Comp
 L +20V #PWR01
 U 1 1 57043DE0
-P 5450 1100
-F 0 "#PWR01" H 5450 950 50  0001 C CNN
-F 1 "+20V" H 5450 1240 50  0000 C CNN
-F 2 "" H 5450 1100 50  0000 C CNN
-F 3 "" H 5450 1100 50  0000 C CNN
-	1    5450 1100
+P 5800 1100
+F 0 "#PWR01" H 5800 950 50  0001 C CNN
+F 1 "+20V" H 5800 1240 50  0000 C CNN
+F 2 "" H 5800 1100 50  0000 C CNN
+F 3 "" H 5800 1100 50  0000 C CNN
+	1    5800 1100
 	1    0    0    -1  
 $EndComp
 Connection ~ 4950 1100
@@ -405,12 +410,12 @@ $EndComp
 $Comp
 L PWR_FLAG #FLG05
 U 1 1 57048C58
-P 5450 1100
-F 0 "#FLG05" H 5450 1195 50  0001 C CNN
-F 1 "PWR_FLAG" H 5450 1280 50  0001 C CNN
-F 2 "" H 5450 1100 50  0000 C CNN
-F 3 "" H 5450 1100 50  0000 C CNN
-	1    5450 1100
+P 5800 1100
+F 0 "#FLG05" H 5800 1195 50  0001 C CNN
+F 1 "PWR_FLAG" H 5800 1280 50  0001 C CNN
+F 2 "" H 5800 1100 50  0000 C CNN
+F 3 "" H 5800 1100 50  0000 C CNN
+	1    5800 1100
 	-1   0    0    1   
 $EndComp
 Wire Wire Line
@@ -426,7 +431,6 @@ Pgood20
 Connection ~ 4950 1300
 Connection ~ 5100 1300
 Connection ~ 5250 1300
-Connection ~ 4650 1300
 Connection ~ 5100 1100
 Connection ~ 5250 1100
 $Comp
@@ -647,16 +651,14 @@ Wire Wire Line
 $Comp
 L PGND #PWR011
 U 1 1 5704AAC1
-P 4950 1500
-F 0 "#PWR011" H 4950 1250 50  0001 C CNN
-F 1 "PGND" H 4950 1350 50  0000 C CNN
-F 2 "" H 4950 1500 50  0000 C CNN
-F 3 "" H 4950 1500 50  0000 C CNN
-	1    4950 1500
+P 5100 1500
+F 0 "#PWR011" H 5100 1250 50  0001 C CNN
+F 1 "PGND" H 5100 1350 50  0000 C CNN
+F 2 "" H 5100 1500 50  0000 C CNN
+F 3 "" H 5100 1500 50  0000 C CNN
+	1    5100 1500
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	4950 1300 4950 1500
 Wire Wire Line
 	1900 2600 3050 2600
 Connection ~ 2050 2600
@@ -772,4 +774,39 @@ Wire Wire Line
 Text GLabel 2450 2050 0    30   Input ~ 6
 EN20
 Connection ~ 2150 1600
+$Comp
+L C Cout6
+U 1 1 570D0623
+P 5400 1200
+F 0 "Cout6" V 5400 1350 50  0000 L CNN
+F 1 "20µF" V 5450 900 50  0000 L CNN
+F 2 "mox:C_1210_HandSoldering" H 5400 1200 50  0001 C CNN
+F 3 "http://www.tme.eu/de/Document/e45476bf270793f696988c4e93ce1237/ASC_General_Purpose.pdf" H 5400 1200 50  0001 C CNN
+F 4 "+-15%" V 5400 1200 60  0001 C CNN "Δ"
+F 5 "Stacked 2*10µF" V 5400 1200 60  0001 C CNN "Special"
+F 6 "http://www.tme.eu/de/details/1210b106k500ct/kondensatoren-mlcc-smd-1210/walsin/" V 5400 1200 60  0001 C CNN "Source"
+F 7 "35V" V 5400 1200 60  0001 C CNN "U"
+	1    5400 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L C Cout7
+U 1 1 570D06A3
+P 5550 1200
+F 0 "Cout7" V 5550 1350 50  0000 L CNN
+F 1 "20µF" V 5600 900 50  0000 L CNN
+F 2 "mox:C_1210_HandSoldering" H 5550 1200 50  0001 C CNN
+F 3 "http://www.tme.eu/de/Document/e45476bf270793f696988c4e93ce1237/ASC_General_Purpose.pdf" H 5550 1200 50  0001 C CNN
+F 4 "+-15%" V 5550 1200 60  0001 C CNN "Δ"
+F 5 "Stacked 2*10µF" V 5550 1200 60  0001 C CNN "Special"
+F 6 "http://www.tme.eu/de/details/1210b106k500ct/kondensatoren-mlcc-smd-1210/walsin/" V 5550 1200 60  0001 C CNN "Source"
+F 7 "35V" V 5550 1200 60  0001 C CNN "U"
+	1    5550 1200
+	1    0    0    -1  
+$EndComp
+Connection ~ 5400 1300
+Wire Wire Line
+	5100 1500 5100 1300
+Connection ~ 5400 1100
+Connection ~ 5550 1100
 $EndSCHEMATC
