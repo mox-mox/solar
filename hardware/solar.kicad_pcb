@@ -8,7 +8,7 @@
     (drawings 0)
     (tracks 475)
     (zones 0)
-    (modules 334)
+    (modules 352)
     (nets 49)
   )
 
@@ -65,8 +65,8 @@
     (mod_edge_width 0.15)
     (mod_text_size 1 1)
     (mod_text_width 0.15)
-    (pad_size 0.6 0.6)
-    (pad_drill 0.3)
+    (pad_size 1.5 1.5)
+    (pad_drill 1.3)
     (pad_to_mask_clearance 0)
     (aux_axis_origin 0 0)
     (visible_elements FFFFFF1F)
@@ -202,6 +202,222 @@
     (add_net "Net-(VREG3_5-Pad19)")
     (add_net PGND)
     (add_net Pgood20)
+  )
+
+  (module mox:Via-1.2mm locked (layer F.Cu) (tedit 5705AD03) (tstamp 57FB7243)
+    (at 5.225 -3.825)
+    (fp_text reference REF**1151 (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-1.2mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 1.4 1.4) (drill 1.2) (layers *.Cu)
+      (net 23 "Net-(Cboot2-Pad1)") (zone_connect 2))
+  )
+
+  (module mox:Via-1.2mm locked (layer F.Cu) (tedit 5705AD03) (tstamp 57FB723F)
+    (at 3.825 -3.825)
+    (fp_text reference REF**1151 (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-1.2mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 1.4 1.4) (drill 1.2) (layers *.Cu)
+      (net 23 "Net-(Cboot2-Pad1)") (zone_connect 2))
+  )
+
+  (module mox:Via-1.2mm locked (layer F.Cu) (tedit 5705AD03) (tstamp 57FB723B)
+    (at 2.425 -3.825)
+    (fp_text reference REF**1151 (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-1.2mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 1.4 1.4) (drill 1.2) (layers *.Cu)
+      (net 23 "Net-(Cboot2-Pad1)") (zone_connect 2))
+  )
+
+  (module mox:Via-1.2mm locked (layer F.Cu) (tedit 5705AD03) (tstamp 57FB7237)
+    (at 5.225 -5.225)
+    (fp_text reference REF**1151 (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-1.2mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 1.4 1.4) (drill 1.2) (layers *.Cu)
+      (net 23 "Net-(Cboot2-Pad1)") (zone_connect 2))
+  )
+
+  (module mox:Via-1.2mm locked (layer F.Cu) (tedit 5705AD03) (tstamp 57FB7233)
+    (at 3.825 -5.225)
+    (fp_text reference REF**1151 (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-1.2mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 1.4 1.4) (drill 1.2) (layers *.Cu)
+      (net 23 "Net-(Cboot2-Pad1)") (zone_connect 2))
+  )
+
+  (module mox:Via-1.2mm locked (layer F.Cu) (tedit 5705AD03) (tstamp 57FB722F)
+    (at 2.425 -5.225)
+    (fp_text reference REF**1151 (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-1.2mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 1.4 1.4) (drill 1.2) (layers *.Cu)
+      (net 23 "Net-(Cboot2-Pad1)") (zone_connect 2))
+  )
+
+  (module mox:Via-1.2mm locked (layer F.Cu) (tedit 5705AD03) (tstamp 57FB722B)
+    (at 5.225 -6.625)
+    (fp_text reference REF**1151 (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-1.2mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 1.4 1.4) (drill 1.2) (layers *.Cu)
+      (net 23 "Net-(Cboot2-Pad1)") (zone_connect 2))
+  )
+
+  (module mox:Via-1.2mm locked (layer F.Cu) (tedit 5705AD03) (tstamp 57FB7227)
+    (at 3.825 -6.625)
+    (fp_text reference REF**1151 (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-1.2mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 1.4 1.4) (drill 1.2) (layers *.Cu)
+      (net 23 "Net-(Cboot2-Pad1)") (zone_connect 2))
+  )
+
+  (module mox:Via-1.2mm locked (layer F.Cu) (tedit 5705AD03) (tstamp 57FB7223)
+    (at 2.425 -6.625)
+    (fp_text reference REF**1151 (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-1.2mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 1.4 1.4) (drill 1.2) (layers *.Cu)
+      (net 23 "Net-(Cboot2-Pad1)") (zone_connect 2))
+  )
+
+  (module mox:Via-1.2mm locked (layer F.Cu) (tedit 5705AD03) (tstamp 57FB71C3)
+    (at 5.225 5.975)
+    (fp_text reference REF**1151 (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-1.2mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 1.4 1.4) (drill 1.2) (layers *.Cu)
+      (net 3 "Net-(Cboot1-Pad1)") (zone_connect 2))
+  )
+
+  (module mox:Via-1.2mm locked (layer F.Cu) (tedit 5705AD03) (tstamp 57FB71BF)
+    (at 3.825 5.975)
+    (fp_text reference REF**1151 (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-1.2mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 1.4 1.4) (drill 1.2) (layers *.Cu)
+      (net 3 "Net-(Cboot1-Pad1)") (zone_connect 2))
+  )
+
+  (module mox:Via-1.2mm locked (layer F.Cu) (tedit 5705AD03) (tstamp 57FB71BB)
+    (at 2.425 5.975)
+    (fp_text reference REF**1151 (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-1.2mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 1.4 1.4) (drill 1.2) (layers *.Cu)
+      (net 3 "Net-(Cboot1-Pad1)") (zone_connect 2))
+  )
+
+  (module mox:Via-1.2mm locked (layer F.Cu) (tedit 5705AD03) (tstamp 57FB71B7)
+    (at 5.225 4.575)
+    (fp_text reference REF**1151 (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-1.2mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 1.4 1.4) (drill 1.2) (layers *.Cu)
+      (net 3 "Net-(Cboot1-Pad1)") (zone_connect 2))
+  )
+
+  (module mox:Via-1.2mm locked (layer F.Cu) (tedit 5705AD03) (tstamp 57FB71B3)
+    (at 3.825 4.575)
+    (fp_text reference REF**1151 (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-1.2mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 1.4 1.4) (drill 1.2) (layers *.Cu)
+      (net 3 "Net-(Cboot1-Pad1)") (zone_connect 2))
+  )
+
+  (module mox:Via-1.2mm locked (layer F.Cu) (tedit 5705AD03) (tstamp 57FB71AF)
+    (at 2.425 4.575)
+    (fp_text reference REF**1151 (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-1.2mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 1.4 1.4) (drill 1.2) (layers *.Cu)
+      (net 3 "Net-(Cboot1-Pad1)") (zone_connect 2))
+  )
+
+  (module mox:Via-1.2mm locked (layer F.Cu) (tedit 5705AD03) (tstamp 57FB71AB)
+    (at 5.225 3.175)
+    (fp_text reference REF**1151 (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-1.2mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 1.4 1.4) (drill 1.2) (layers *.Cu)
+      (net 3 "Net-(Cboot1-Pad1)") (zone_connect 2))
+  )
+
+  (module mox:Via-1.2mm locked (layer F.Cu) (tedit 5705AD03) (tstamp 57FB71A7)
+    (at 3.825 3.175)
+    (fp_text reference REF**1151 (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-1.2mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 1.4 1.4) (drill 1.2) (layers *.Cu)
+      (net 3 "Net-(Cboot1-Pad1)") (zone_connect 2))
+  )
+
+  (module mox:Via-1.2mm locked (layer F.Cu) (tedit 5705AD03) (tstamp 57FB7135)
+    (at 2.425 3.175)
+    (fp_text reference REF**1151 (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-1.2mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 1.4 1.4) (drill 1.2) (layers *.Cu)
+      (net 3 "Net-(Cboot1-Pad1)") (zone_connect 2))
   )
 
   (module mox:Via-0.3mm (layer F.Cu) (tedit 57FAE472) (tstamp 57FAFB5A)
