@@ -1426,4 +1426,8 @@ Wire Wire Line
 	2450 4700 3200 4700
 Wire Wire Line
 	4200 4700 4800 4700
+Text Notes 2000 4250 1    60   ~ 0
+¡Solder the\ncoils last!
+Text Notes 5450 4200 1    60   ~ 0
+¡Solder the\ncoils last!
 $EndSCHEMATC
