@@ -2,13 +2,13 @@
 
   (general
     (links 0)
-    (no_connects 167)
+    (no_connects 151)
     (area 0 0 0 0)
     (thickness 1.6)
     (drawings 0)
-    (tracks 474)
+    (tracks 475)
     (zones 0)
-    (modules 318)
+    (modules 334)
     (nets 49)
   )
 
@@ -202,6 +202,198 @@
     (add_net "Net-(VREG3_5-Pad19)")
     (add_net PGND)
     (add_net Pgood20)
+  )
+
+  (module mox:Via-0.3mm (layer F.Cu) (tedit 57FAE472) (tstamp 57FAFB5A)
+    (at 7.75 5.125)
+    (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-0.3mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 17 PGND) (zone_connect 2))
+  )
+
+  (module mox:Via-0.3mm (layer F.Cu) (tedit 57FAE472) (tstamp 57FAFB56)
+    (at 7.75 4.525)
+    (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-0.3mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 17 PGND) (zone_connect 2))
+  )
+
+  (module mox:Via-0.3mm (layer F.Cu) (tedit 57FAE472) (tstamp 57FAFB52)
+    (at 7.75 3.925)
+    (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-0.3mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 17 PGND) (zone_connect 2))
+  )
+
+  (module mox:Via-0.3mm (layer F.Cu) (tedit 57FAE472) (tstamp 57FAFB4E)
+    (at 7.75 3.325)
+    (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-0.3mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 17 PGND) (zone_connect 2))
+  )
+
+  (module mox:Via-0.3mm (layer F.Cu) (tedit 57FAE472) (tstamp 57FAFB4A)
+    (at 7.75 2.725)
+    (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-0.3mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 17 PGND) (zone_connect 2))
+  )
+
+  (module mox:Via-0.3mm (layer F.Cu) (tedit 57FAE472) (tstamp 57FAFB46)
+    (at 7.75 2.125)
+    (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-0.3mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 17 PGND) (zone_connect 2))
+  )
+
+  (module mox:Via-0.3mm (layer F.Cu) (tedit 57FAE472) (tstamp 57FAFB42)
+    (at 7.75 1.525)
+    (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-0.3mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 17 PGND) (zone_connect 2))
+  )
+
+  (module mox:Via-0.3mm (layer F.Cu) (tedit 57FAE472) (tstamp 57FAFB37)
+    (at 7.75 0.925)
+    (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-0.3mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 17 PGND) (zone_connect 2))
+  )
+
+  (module mox:Via-0.3mm (layer F.Cu) (tedit 57FAE472) (tstamp 57FAFB33)
+    (at 7.75 -0.925)
+    (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-0.3mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 17 PGND) (zone_connect 2))
+  )
+
+  (module mox:Via-0.3mm (layer F.Cu) (tedit 57FAE472) (tstamp 57FAFB2F)
+    (at 7.75 -1.525)
+    (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-0.3mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 17 PGND) (zone_connect 2))
+  )
+
+  (module mox:Via-0.3mm (layer F.Cu) (tedit 57FAE472) (tstamp 57FAFB2B)
+    (at 7.75 -2.125)
+    (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-0.3mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 17 PGND) (zone_connect 2))
+  )
+
+  (module mox:Via-0.3mm (layer F.Cu) (tedit 57FAE472) (tstamp 57FAFB27)
+    (at 7.75 -2.725)
+    (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-0.3mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 17 PGND) (zone_connect 2))
+  )
+
+  (module mox:Via-0.3mm (layer F.Cu) (tedit 57FAE472) (tstamp 57FAFB23)
+    (at 7.75 -3.325)
+    (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-0.3mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 17 PGND) (zone_connect 2))
+  )
+
+  (module mox:Via-0.3mm (layer F.Cu) (tedit 57FAE472) (tstamp 57FAFB1F)
+    (at 7.75 -3.925)
+    (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-0.3mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 17 PGND) (zone_connect 2))
+  )
+
+  (module mox:Via-0.3mm (layer F.Cu) (tedit 57FAE472) (tstamp 57FAFB1B)
+    (at 7.75 -4.525)
+    (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-0.3mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 17 PGND) (zone_connect 2))
+  )
+
+  (module mox:Via-0.3mm (layer F.Cu) (tedit 57FAE472) (tstamp 57FAFA2A)
+    (at 7.75 -5.125)
+    (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Via-0.3mm (at 0 -1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 17 PGND) (zone_connect 2))
   )
 
   (module mox:Via-0.3mm (layer F.Cu) (tedit 57FAD691) (tstamp 57FAD6D8)
@@ -6490,6 +6682,7 @@
   (segment (start 150.125 83) (end 150.425 83) (width 0.2) (layer B.Cu) (net 2) (status 30))
   (segment (start 152.2 81.675) (end 151.675 81.675) (width 0.2) (layer B.Cu) (net 2))
   (segment (start 151.675 81.675) (end 151.7 81.675) (width 0.2) (layer B.Cu) (net 2) (tstamp 570B9D7B))
+  (segment (start -0.05 4) (end 2 4) (width 0.15) (layer F.Cu) (net 3))
   (segment (start 1.049999 8.200001) (end 2.25 7) (width 0.15) (layer F.Cu) (net 3))
   (segment (start 0.75 8.5) (end 1.049999 8.200001) (width 0.15) (layer F.Cu) (net 3))
   (segment (start 0.175 7.95) (end 0.2 7.95) (width 0.15) (layer B.Cu) (net 3))
@@ -7389,6 +7582,80 @@
         (xy -2.651527 3.197) (xy -2.575 3.212222) (xy -2.363759 3.170204) (xy -2.184677 3.050545) (xy -2.17858 3.04142)
         (xy -2.169455 3.035323) (xy -2.049796 2.856241) (xy -2.007778 2.645) (xy -2.023 2.568473) (xy -2.023 2.271527)
         (xy -2.016781 2.240261) (xy -1.65352 1.877) (xy -1.302606 1.877)
+      )
+    )
+  )
+  (zone (net 17) (net_name PGND) (layer B.Cu) (tstamp 57FAD888) (hatch edge 0.508)
+    (connect_pads yes (clearance 0.2))
+    (min_thickness 0.254)
+    (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy -6.25 -6) (xy -6.5 -5.75) (xy -6.5 -4.75) (xy -6.25 -4.5) (xy -3.75 -4.5)
+        (xy -3.25 -4) (xy -3.25 -3.25) (xy -3 -3) (xy -2.5 -3) (xy -2.25 -2.75)
+        (xy -2.25 -2.25) (xy -1.75 -1.75) (xy -1.25 -1.75) (xy -1 -2) (xy -0.75 -2.25)
+        (xy -0.75 -5.25) (xy -0.75 -5.5) (xy -1.25 -6)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy -0.877 -5.447394) (xy -0.877 -3.877924) (xy -1.009267 -3.745657) (xy -1.09641 -3.615239) (xy -1.12701 -3.4614)
+        (xy -1.12701 -3.001937) (xy -1.324171 -3.002109) (xy -1.554703 -2.906855) (xy -1.731235 -2.730631) (xy -1.826891 -2.500265)
+        (xy -1.827109 -2.250829) (xy -1.731855 -2.020297) (xy -1.588808 -1.877) (xy -1.65352 -1.877) (xy -2.016781 -2.240261)
+        (xy -2.023 -2.271527) (xy -2.023 -2.568473) (xy -2.007778 -2.645) (xy -2.049796 -2.856241) (xy -2.169455 -3.035323)
+        (xy -2.17858 -3.04142) (xy -2.184677 -3.050545) (xy -2.363759 -3.170204) (xy -2.575 -3.212222) (xy -2.651527 -3.197)
+        (xy -2.948473 -3.197) (xy -3.025 -3.212222) (xy -3.031352 -3.210958) (xy -3.113557 -3.293163) (xy -3.099796 -3.313759)
+        (xy -3.057778 -3.525) (xy -3.073 -3.601527) (xy -3.073 -3.898473) (xy -3.057778 -3.975) (xy -3.099796 -4.186241)
+        (xy -3.219455 -4.365323) (xy -3.22858 -4.37142) (xy -3.234677 -4.380545) (xy -3.413759 -4.500204) (xy -3.609541 -4.539147)
+        (xy -3.660197 -4.589803) (xy -3.702211 -4.617666) (xy -3.75 -4.627) (xy -6.197394 -4.627) (xy -6.373 -4.802606)
+        (xy -6.373 -5.697394) (xy -6.197394 -5.873) (xy -1.302606 -5.873)
+      )
+    )
+  )
+  (zone (net 17) (net_name PGND) (layer B.Cu) (tstamp 0) (hatch edge 0.508)
+    (connect_pads yes (clearance 0.2))
+    (min_thickness 0.254)
+    (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy 3 -1.75) (xy 2.75 -2) (xy 2.75 -2.5) (xy 3 -2.75) (xy 6 -2.75)
+        (xy 6.5 -3.25) (xy 6.5 -5.5) (xy 6.75 -5.75) (xy 7.5 -5.75) (xy 7.75 -5.75)
+        (xy 8.75 -4.75) (xy 8.75 -2.625) (xy 8.75 -0.75) (xy 8.5 -0.5) (xy 6.75 -0.5)
+        (xy 6.5 -0.75) (xy 6.5 -1.5) (xy 6.25 -1.75)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 8.623 -4.697394) (xy 8.623 -0.802606) (xy 8.447394 -0.627) (xy 6.802606 -0.627) (xy 6.627 -0.802606)
+        (xy 6.627 -1.5) (xy 6.616994 -1.54941) (xy 6.589803 -1.589803) (xy 6.339803 -1.839803) (xy 6.297789 -1.867666)
+        (xy 6.25 -1.877) (xy 6.079153 -1.877) (xy 6.045808 -1.89928) (xy 5.825 -1.943202) (xy 5.743548 -1.927)
+        (xy 5.106452 -1.927) (xy 5.025 -1.943202) (xy 4.804192 -1.89928) (xy 4.770847 -1.877) (xy 3.052606 -1.877)
+        (xy 2.877 -2.052606) (xy 2.877 -2.447394) (xy 3.052606 -2.623) (xy 6 -2.623) (xy 6.04941 -2.633006)
+        (xy 6.089803 -2.660197) (xy 6.589803 -3.160197) (xy 6.617666 -3.202211) (xy 6.627 -3.25) (xy 6.627 -5.447394)
+        (xy 6.802606 -5.623) (xy 7.697394 -5.623)
+      )
+    )
+  )
+  (zone (net 17) (net_name PGND) (layer B.Cu) (tstamp 0) (hatch edge 0.508)
+    (connect_pads yes (clearance 0.2))
+    (min_thickness 0.254)
+    (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy 3 8.125) (xy 2.75 7.875) (xy 2.75 7.125) (xy 3 6.875) (xy 6 6.875)
+        (xy 6.5 6.375) (xy 6.5 0.75) (xy 6.75 0.5) (xy 8.5 0.5) (xy 8.75 0.75)
+        (xy 8.75 6.375) (xy 7 8.125)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 8.623 0.802606) (xy 8.623 6.322394) (xy 7.003409 7.941985) (xy 6.97317 7.948) (xy 6.65683 7.948)
+        (xy 6.6 7.936696) (xy 6.436594 7.969199) (xy 6.39349 7.998) (xy 5.377212 7.998) (xy 5.175 7.957778)
+        (xy 5.098473 7.973) (xy 4.801527 7.973) (xy 4.725 7.957778) (xy 4.522788 7.998) (xy 3.477212 7.998)
+        (xy 3.275 7.957778) (xy 3.198473 7.973) (xy 3.027606 7.973) (xy 2.877 7.822394) (xy 2.877 7.177606)
+        (xy 3.029606 7.025) (xy 5.903092 7.025) (xy 5.955 7.035325) (xy 6.118406 7.002822) (xy 6.119174 7.002309)
+        (xy 6.168501 6.992497) (xy 6.30703 6.899935) (xy 6.399592 6.761406) (xy 6.426009 6.628597) (xy 6.589803 6.464803)
+        (xy 6.617666 6.422789) (xy 6.627 6.375) (xy 6.627 0.802606) (xy 6.802606 0.627) (xy 8.447394 0.627)
       )
     )
   )
